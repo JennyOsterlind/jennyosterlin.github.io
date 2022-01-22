@@ -1,2 +1,2 @@
-# jennyosterlind.moment1.github.io
+# jennyosterlind.github.io
 Test-repository
